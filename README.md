@@ -1,4 +1,4 @@
-### Hi there 👋
+###돌다리를 두드리느니 수영을 배우는 화끈한 승부사 신입 개발자 정지현 입니다.👋
 
 <!--
 **JihyunJung03/JihyunJung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
