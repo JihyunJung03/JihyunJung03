@@ -1,11 +1,19 @@
-## 돌다리를 두드리느니 수영을 배우는 화끈한 승부사 신입 개발자 정지현 입니다.☺️
+# 👋 안녕하세요! 정지현입니다.
+## 소개
+- ☺️ 돌다리를 두드리느니 수영을 배우는 화끈한 승부사 신입 개발자 정지현 입니다.
+- 🌱 현재 신입 개발자로서 학습 중입니다.
+- 🔭 현재 주로 JavaScript, Node.js를 사용하여 웹 개발을 하고 있습니다.
+- 📚 데이터베이스에 대한 깊은 이해를 목표로 학습하고 있습니다.
+- 💼 DBA(Database Administrator)로의 경력을 희망하며 관련 기술과 역량을 향상시키고 있습니다.
+
+## GitHub 통계
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Technology Stack
+## 기술 스택
 ### Language
 <p>
 <a href="링크"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -20,6 +28,9 @@
   <a href="링크"><img src="https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
 </p>
 
+## 연락처
+- 📧 이메일: wlgussl0215@gmail.com
+- 📚 티스토리: https://jh0303.tistory.com/
 
 
 
