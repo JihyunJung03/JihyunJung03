@@ -6,11 +6,6 @@
 - 📚 데이터베이스에 대한 깊은 이해를 목표로 MySQL, Postgresql를 학습하고 있습니다.
 - 💼 DBA(Database Administrator)로의 경력을 희망하며 관련 기술과 역량을 향상시키고 있습니다.
 
-## GitHub 통계
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 기술 스택
@@ -27,6 +22,12 @@
   <a href="링크"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
   <a href="링크"><img src="https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
 </p>
+
+## GitHub 통계
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 연락처
 - 📧 이메일: wlgussl0215@gmail.com
