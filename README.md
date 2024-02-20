@@ -30,8 +30,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 연락처
-- 📧 이메일: wlgussl0215@gmail.com
-- 📚 티스토리: https://jh0303.tistory.com/
+- 📧 E-mail: wlgussl0215@gmail.com
+- 📚 Tistory: https://jh0303.tistory.com/
 
 
 
