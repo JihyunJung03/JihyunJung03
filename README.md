@@ -15,6 +15,7 @@
 <a href="링크"><img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
+<a href="링크"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 </p>
 
 ### Database
