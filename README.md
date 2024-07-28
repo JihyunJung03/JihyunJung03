@@ -21,12 +21,14 @@
 <p>
   <a href="링크"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
   <a href="링크"><img src="https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
+  <a href="링크"><img src="https://img.shields.io/badge/ApacheHive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white"/></a>
 </p>
+
 
 ## GitHub 통계
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
+[![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyunJung03)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 연락처
 - 📧 E-mail: wlgussl0215@gmail.com
